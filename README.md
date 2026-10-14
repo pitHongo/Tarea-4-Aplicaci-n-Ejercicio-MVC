@@ -296,8 +296,8 @@ Para contribuir a este proyecto, sigue estos pasos:
 
 Este proyecto fue desarrollado por:
 
-- **Gabriel Arguello (Universidad de las Américas)**  
-  - [GitHub](https://github.com/Mattair39)  
+- **Matías Flores (Universidad de las Américas)**  
+  - [GitHub](https://github.com/pitHongo)  
 
 ### 🙏 **Tecnologías utilizadas:**
 - [Django](https://www.djangoproject.com/) - Framework web de Python
